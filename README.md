@@ -3,7 +3,7 @@
 - Eu me chamo Sophia Prado 💗, tenho 15 anos.
 - Estou estudando no Alura
 - Estou me esenvolvendo na lingugaem java.script
-- Utilizo esse espaço para minha organização e comportilhamento dos meu projetos desenvolvios
+- Utilizo esse espaço para minha organização e comportilhamento dos meu projetos desenvolvidos
 
 - serra.sophia@escola.pr.gov.br
 
